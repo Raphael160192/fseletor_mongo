@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ .container-fluid{
+    background-color:#2733A0;
+    padding: 1%;
+    height: 75px;;
+} 
+
+.link{
+color:white;
+font-size: 3vh;
+margin-left: 5%;
+    margin-right: 5%;
+    padding: 3px 15px 3px 15px;
+}
+
+.bem-vindos{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+} 
+   
+.Footer{
+margin-top:50px;
+text-align: center;
+color: red;
+font-size: 20px;
+ }
+  
+h1,h2{
+    margin-left: 3%;
+    font-size:10%; 
+   
+}
+
+.local{
+    margin-top:150px;
+    margin-left: 3%;
+    color:blue;   
+}
+
+
+/* pagina de produtos */
+.categoriaprodutos{
+margin-left: 2%;
+}
+.celula{
+    font-size: 11.5px;
+    text-align: center;
+    overflow: hidden; 
+    max-height: 295px;
+}
+      
+.informacoes_do_produto{
+    width:200px;
+}
+
+.preco_antigo{
+    text-decoration: line-through;
+    font-size: 12px;
+}
+
+.preco{
+    color:red;
+    font-size: 13.5px;
+    margin-top: 0;
+}
+  
+.preco{
+    color:red;
+    font-size: 13.5px;
+    margin-top: 0;
+  }
+  
+  div.container-margem{
+    margin-top:-200px;
+    margin-left:180px;
+   
+  }
+  
+
+
+.container-card{
+    text-align: center;
+    display: flex;
+  justify-content: center; 
+}
+
+/* .card-content{
+    margin: 5%;
+    color:blue; 
+}  */
+
+.card{
+margin:1%;
+margin-left:5%;
+}
+img{
+    width: 130px;  
+}
+
+.logocontato{
+     width: 70px; 
+    
+}
+
+.titulo-pedidos{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.titulo-endeco{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.titulo-contato{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
